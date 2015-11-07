@@ -13,17 +13,29 @@
 					<key>url</key>
 					<string>https://github.com/13522746623/GitHub/raw/master/ios/App/BIMReader.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/13522746623/GitHub/raw/master/ios/App/BIM57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/13522746623/GitHub/raw/master/ios/App/BIM512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>BIMReader</string>
+				<string>TiBimReader</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BimReader</string>
+				<string>BIM Reader</string>
 			</dict>
 		</dict>
 	</array>
