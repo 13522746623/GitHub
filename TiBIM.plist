@@ -29,7 +29,8 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>TiBIMAPP</string>
+				<!--string>TiBIMAPP</string-->
+				<string>tigerTongFangDingXinTest</string>				
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
